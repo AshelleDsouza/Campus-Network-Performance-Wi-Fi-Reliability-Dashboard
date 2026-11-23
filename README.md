@@ -35,16 +35,3 @@ py -m pip install -r requirements.txt
 py -m streamlit run app.py
 ```
 
-## Submission checklist
-
-1. Push this folder to GitHub (include `data/`), then submit the repo link in Google Classroom.
-2. Deploy: go to share.streamlit.io, connect the repo, set main file to `app.py`, deploy, and submit the app URL.
-
-## Viva cheat sheet
-
-- **Code walk-through:** see `CODE_EXPLAINED.md` (plain-English explanation of every part).
-- **Problem:** campus Wi-Fi complaints are anecdotal; this gives data-driven visibility into where, when and why the network underperforms.
-- **Data flow:** CSV files → Pandas cleaning and aggregation → Plotly charts → Streamlit UI with sidebar filters.
-- **Health score:** weighted mix of speed (30%), latency (20%), packet loss (20%), uptime (30%).
-- **Caching:** `@st.cache_data` avoids reloading the CSV on each interaction.
-- **Limitations / future work:** real deployment needs controller / SNMP / syslog data; add email or Telegram alerts; per-AP drill-down; anomaly detection (e.g. Isolation Forest).
