@@ -1,0 +1,44 @@
+outage_id,location,start_time,end_time,duration_min,cause
+OUT-0001,Hostel B,2026-10-18 04:00:00,2026-10-18 04:30:00,30,Scheduled maintenance
+OUT-0002,Computer Lab Block,2026-10-18 15:15:00,2026-10-18 16:45:00,90,Access point fault
+OUT-0003,Main Academic Block,2026-10-21 02:00:00,2026-10-21 02:15:00,15,Cable fault
+OUT-0004,Cafeteria,2026-10-21 08:15:00,2026-10-21 08:45:00,30,Access point fault
+OUT-0005,Computer Lab Block,2026-10-21 23:30:00,2026-10-22 01:00:00,90,Access point fault
+OUT-0006,Hostel A,2026-10-23 03:45:00,2026-10-23 04:45:00,60,Switch reboot
+OUT-0007,Hostel A,2026-10-24 02:45:00,2026-10-24 03:00:00,15,Uplink / ISP outage
+OUT-0008,Computer Lab Block,2026-10-24 12:30:00,2026-10-24 13:00:00,30,Access point fault
+OUT-0009,Admin Block,2026-10-24 18:45:00,2026-10-24 19:00:00,15,Switch reboot
+OUT-0010,Hostel B,2026-10-25 03:00:00,2026-10-25 03:30:00,30,Cable fault
+OUT-0011,Hostel B,2026-10-25 21:45:00,2026-10-25 22:30:00,45,Power failure
+OUT-0012,Hostel B,2026-10-26 17:00:00,2026-10-26 18:30:00,90,Uplink / ISP outage
+OUT-0013,Main Academic Block,2026-10-27 20:15:00,2026-10-27 21:00:00,45,Power failure
+OUT-0014,Main Academic Block,2026-10-28 01:15:00,2026-10-28 01:30:00,15,Switch reboot
+OUT-0015,Cafeteria,2026-10-28 01:15:00,2026-10-28 01:30:00,15,Scheduled maintenance
+OUT-0016,Hostel B,2026-10-28 06:30:00,2026-10-28 06:45:00,15,Scheduled maintenance
+OUT-0017,Main Academic Block,2026-10-29 23:30:00,2026-10-30 01:30:00,120,Cable fault
+OUT-0018,Sports Complex,2026-10-30 08:15:00,2026-10-30 09:45:00,90,Power failure
+OUT-0019,Hostel B,2026-10-30 22:45:00,2026-10-30 23:45:00,60,Switch reboot
+OUT-0020,Admin Block,2026-10-31 05:45:00,2026-10-31 06:45:00,60,Switch reboot
+OUT-0021,Cafeteria,2026-10-31 11:00:00,2026-10-31 11:45:00,45,Access point fault
+OUT-0022,Admin Block,2026-11-01 05:00:00,2026-11-01 05:15:00,15,Cable fault
+OUT-0023,Cafeteria,2026-11-01 22:15:00,2026-11-01 22:30:00,15,Switch reboot
+OUT-0024,Computer Lab Block,2026-11-01 23:30:00,2026-11-02 01:00:00,90,Switch reboot
+OUT-0025,Main Academic Block,2026-11-02 06:45:00,2026-11-02 07:15:00,30,Cable fault
+OUT-0026,Main Academic Block,2026-11-02 13:15:00,2026-11-02 13:45:00,30,Cable fault
+OUT-0027,Computer Lab Block,2026-11-02 14:30:00,2026-11-02 15:30:00,60,Access point fault
+OUT-0028,Main Academic Block,2026-11-02 16:30:00,2026-11-02 17:00:00,30,Uplink / ISP outage
+OUT-0029,Computer Lab Block,2026-11-03 16:30:00,2026-11-03 16:45:00,15,Switch reboot
+OUT-0030,Auditorium,2026-11-06 05:30:00,2026-11-06 05:45:00,15,Power failure
+OUT-0031,Computer Lab Block,2026-11-07 00:45:00,2026-11-07 01:00:00,15,Scheduled maintenance
+OUT-0032,Cafeteria,2026-11-07 10:15:00,2026-11-07 10:45:00,30,Power failure
+OUT-0033,Hostel B,2026-11-08 18:15:00,2026-11-08 18:45:00,30,Uplink / ISP outage
+OUT-0034,Auditorium,2026-11-09 10:00:00,2026-11-09 10:30:00,30,Access point fault
+OUT-0035,Library,2026-11-09 21:30:00,2026-11-09 23:30:00,120,Scheduled maintenance
+OUT-0036,Auditorium,2026-11-11 04:30:00,2026-11-11 05:30:00,60,Switch reboot
+OUT-0037,Sports Complex,2026-11-12 23:45:00,2026-11-13 00:15:00,30,Scheduled maintenance
+OUT-0038,Sports Complex,2026-11-13 13:30:00,2026-11-13 13:45:00,15,Power failure
+OUT-0039,Library,2026-11-13 16:30:00,2026-11-13 18:00:00,90,Access point fault
+OUT-0040,Admin Block,2026-11-14 18:30:00,2026-11-14 19:00:00,30,Switch reboot
+OUT-0041,Auditorium,2026-11-15 14:00:00,2026-11-15 16:00:00,120,Uplink / ISP outage
+OUT-0042,Library,2026-11-16 10:30:00,2026-11-16 10:45:00,15,Cable fault
+OUT-0043,Hostel A,2026-11-16 23:15:00,2026-11-17 00:00:00,45,Access point fault
